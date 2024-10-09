@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: "Urbanist", sans-serif;
+}
+
+.bg-body{
+    margin: 20px;
+}
+.card{
+    height: 500px;
+
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+}
+
+.description{
+    height: 100px;
+    overflow: hidden;
+}
+
+.price{
+    color: green;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.footer-sec{
+    margin: 30px;
+}
